@@ -16,7 +16,7 @@
    ```
    
 The API will be available at:
-http://localhost:5000/products
+http://localhost:5000/
 
 ### TODO
 Error handling
