@@ -10,9 +10,13 @@
    git clone https://github.com/yoxuan0125/backend_test.git
 2. ```bash
    cd backend_test
-2. Build and start the application using Docker Compose:
+3.Build and start the application using Docker Compose:
    ```bash
    docker-compose up --build
+   ```
+   
+The API will be available at:
+http://localhost:5000/products
 
 ## Contact
 - Author: 林佑宸
