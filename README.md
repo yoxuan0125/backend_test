@@ -18,6 +18,9 @@
 The API will be available at:
 http://localhost:5000/products
 
+### TODO
+Error handling
+
 ## Contact
 - Author: 林佑宸
 - Email: a0920712872@gmail.com
