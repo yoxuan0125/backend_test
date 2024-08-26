@@ -8,10 +8,7 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/yoxuan0125/movies.com_v2.git
-2. Navigate to the project directory:
-   ```bash
-   cd movies.com_v2
-3. Build and start the application using Docker Compose:
+2. Build and start the application using Docker Compose:
    ```bash
    docker-compose up --build
 
